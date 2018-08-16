@@ -9,9 +9,9 @@ Note: Be sure to use precise values for your calculations, or you may end up wit
 Input Format
 
 There are  lines of numeric input:
-The first line has a double,  (the cost of the meal before tax and tip).
-The second line has an integer,  (the percentage of  being added as tip).
-The third line has an integer,  (the percentage of  being added as tax).
+The first line has a double, meal_cost (the cost of the meal before tax and tip).
+The second line has an integer, tip_percent (the percentage of  being added as tip).
+The third line has an integer, tax_percent (the percentage of  being added as tax).
 '''
 #!/bin/python3
 
